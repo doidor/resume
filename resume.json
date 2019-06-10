@@ -39,12 +39,12 @@
       "position": "Chief Technology Officer & Co-Owner",
       "website": "",
       "highlights": [
-        "Currently driving the development of a sports betting / online gambling white label PaaS.",
+        "Drove the development of a sports betting / online gambling white label PaaS.",
         "Had operations in 3 north african countries (Ghana, Uganda and Kenya).",
         "Managed a team of 8 developers, following an agile approach.",
         "Designed and implemented the software architecture of the whole platform, creating a decoupled, highly scalable, components based system.",
-        "Worked alongside a DevOps engineer on designing and implementing a complete continuous delivery solution.",        
-        "Implemented machine learning data models for predicting and categorizing user activities / behaviors.",        
+        "Worked alongside a DevOps engineer on designing and implementing a complete continuous integration / continuous delivery solution.",
+        "Implemented machine learning data models for predicting and categorizing user activities / behaviors.",
         "Developed a lottery extraction tool which allowed the client to set a custom RTP (return to player) percentage using genetic algorithms.",
         "Worked with technologies raging from low level code designed for currency detectors (ccTalk protocol) to high-level frontend libraries."
       ],
@@ -68,7 +68,7 @@
     {
       "highlights": [
         "Managed the Cluj-Napoca office operations.",
-        "Managed a team of 5 developers, working on a file hosting service similar to Dropbox, which was the main competitor at that time.",        
+        "Managed a team of 5 developers, working on a file hosting service similar to Dropbox, which was the main competitor at that time.",
         "Wrote a complete UI library with comparable window manager-like features in vanilla JS"
       ],
       "company": "wixi.com",
