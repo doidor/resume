@@ -43,7 +43,7 @@
         "Had operations in 3 north african countries (Ghana, Uganda and Kenya).",
         "Managed a team of 8 developers, following an agile approach.",
         "Designed and implemented the software architecture of the whole platform, creating a decoupled, highly scalable, components based system.",
-        "Worked alongside a DevOps engineer on designing and implementing a complete continuous integration / continuous delivery solution.",
+        "Worked alongside a DevOps team on designing and implementing a complete continuous integration / continuous delivery solution using the AWS cloud.",
         "Implemented machine learning data models for predicting and categorizing user activities / behaviors.",
         "Developed a lottery extraction tool which allowed the client to set a custom RTP (return to player) percentage using genetic algorithms.",
         "Worked with technologies raging from low level code designed for currency detectors (ccTalk protocol) to high-level frontend libraries."
@@ -105,7 +105,9 @@
         "Python",
         "Javascript",
         "NodeJS",
-        "Bash"
+        "Bash",
+        "Objective C",
+        "Rust (beginner)"
       ],
       "name": "Programming Languages"
     },
@@ -127,10 +129,34 @@
     },
     {
       "keywords": [
-        "TensorFlow",
-        "Keras"
+        "AWS",
+        "Kubernetes",
+        "Jenkins",
+        "Chef"
       ],
-      "name": "Machine Learning Frameworks"
+      "name": "DevOps"
+    },
+    {
+      "keywords": [
+        "React",
+        "Backbone"
+      ],
+      "name": "Frontend"
+    },
+    {
+      "keywords": [
+        "nodejs frameworks - express, socketio, crossbar",
+        "python frameworks - django, twisted"
+      ],
+      "name": "Backend"
+    },
+    {
+      "keywords": [
+        "TensorFlow",
+        "Keras",
+        "Brain.js"
+      ],
+      "name": "Machine Learning"
     }
   ],
   "projects": [
