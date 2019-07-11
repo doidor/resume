@@ -104,10 +104,9 @@
       "keywords": [
         "Python",
         "Javascript",
-        "NodeJS",
-        "Bash",
-        "Objective C",
-        "Rust (beginner)"
+        null,
+        "Rust",
+        "Bash"
       ],
       "name": "Programming Languages"
     },
