@@ -1,5 +1,5 @@
 {
-  "selectedTemplate": 2,
+  "selectedTemplate": 6,
   "headings": {
     "work": "Work Experience",
     "skills": "Skills",
@@ -10,7 +10,7 @@
   "basics": {
     "name": "Tudor Popa",
     "email": "tdr.popa@gmail.com",
-    "phone": "744582116",
+    "phone": "+40744582116",
     "website": "tudorpopa.com",
     "location": {
       "address": "Cluj-Napoca, Cluj, Romania"
@@ -112,10 +112,7 @@
     },
     {
       "keywords": [
-        "MongoDB",
-        "Redis",
-        "MySQL",
-        "Couchbase"
+        "Various db engines including both SQL and NoSQL solutions such as MongoDB, Redis, Couchbase, PostgreSQL and others."
       ],
       "name": "Databases"
     },
@@ -128,32 +125,26 @@
     },
     {
       "keywords": [
-        "AWS",
-        "Kubernetes",
-        "Jenkins",
-        "Chef"
+        "Various DevOps tools and orchestration systems such as Kubernetes, Docker, Jenkins, Chef, Puppet and others.",
+        "Worked on multiple cloud computing platforms including AWS, Azure and Google Cloud."
       ],
       "name": "DevOps"
     },
     {
       "keywords": [
-        "React",
-        "Backbone"
+        "Various frontend frameworks / libraries such as React, Angular, Vue and others."
       ],
       "name": "Frontend"
     },
     {
       "keywords": [
-        "nodejs frameworks - express, socketio, crossbar",
-        "python frameworks - django, twisted"
+        "Various backend frameworks based on NodeJS, Python and, as of late Rust."
       ],
       "name": "Backend"
     },
     {
       "keywords": [
-        "TensorFlow",
-        "Keras",
-        "Brain.js"
+        "Various ML libraries such as TensorFlow, Keras and Brain.js."
       ],
       "name": "Machine Learning"
     }
@@ -190,8 +181,8 @@
     "profile",
     "education",
     "work",
+    "awards",
     "skills",
-    "projects",
-    "awards"
+    "projects"
   ]
 }
