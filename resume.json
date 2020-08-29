@@ -37,20 +37,33 @@
     {
       "company": "Black Tree Software",
       "position": "Chief Technology Officer & Co-Owner",
-      "website": "",
+      "website": "https://blacktree.software/",
       "highlights": [
-        "Drove the development of a sports betting / online gambling white label PaaS.",
-        "Had operations in 3 north african countries (Ghana, Uganda and Kenya).",
-        "Managed a team of 8 developers, following an agile approach.",
-        "Designed and implemented the software architecture of the whole platform, creating a decoupled, highly scalable, components based system.",
-        "Worked alongside a DevOps team on designing and implementing a complete continuous integration / continuous delivery solution using the AWS cloud.",
-        "Implemented machine learning data models for predicting and categorizing user activities / behaviors.",
-        "Developed a lottery extraction tool which allowed the client to set a custom RTP (return to player) percentage using genetic algorithms.",
-        "Worked with technologies raging from low level code designed for currency detectors (ccTalk protocol) to high-level frontend libraries."
+        "Managed / lead multiple teams of developers on various outsourcing projects.",
+        "Worked with technologies such as React, NodeJS, Pyhton and Rust.",
+        "Mostly focused on machine learning and software architecture."
       ],
       "location": "Cluj-Napoca, Cluj, Romania",
       "startDate": "Sep 2016",
       "endDate": "Present"
+    },
+    {
+      "company": "Black Tree Software -- Sports betting / Online gambling PaaS",
+      "position": "Chief Technology Officer & Co-Owner",
+      "website": "https://blacktree.software/",
+      "highlights": [
+        "Drove the development of a sports betting / online gambling white label PaaS.",
+        "Had operations in 3 north african countries (Ghana, Uganda and Kenya).",
+        "Managed a team of 11 developers, following an agile approach.",
+        "Designed and implemented the software architecture of the whole platform, creating a decoupled, highly scalable, components based system.",
+        "Worked alongside a DevOps team on designing and implementing a complete continuous integration / continuous delivery solution using the AWS cloud.",
+        "Implemented machine learning data models for predicting and categorizing user activities / behaviors.",
+        "Developed a lottery extraction tool which allowed the client to set a custom RTP (return to player) percentage using genetic algorithms.",
+        "Worked with technologies raging from low level code designed for currency detectors (ccTalk protocol) to full stack solutions (NodeJS, Python and React)."
+      ],
+      "location": "Cluj-Napoca, Cluj, Romania",
+      "startDate": "Sep 2016",
+      "endDate": "Aug 2019"
     },
     {
       "highlights": [
@@ -104,7 +117,6 @@
       "keywords": [
         "Python",
         "Javascript",
-        null,
         "Rust",
         "Bash"
       ],
@@ -112,7 +124,7 @@
     },
     {
       "keywords": [
-        "Various db engines including both SQL and NoSQL solutions such as MongoDB, Redis, Couchbase, PostgreSQL and others."
+        "Various db engines including both SQL and NoSQL solutions such as MongoDB, Redis, Couchbase, PostgreSQL."
       ],
       "name": "Databases"
     },
@@ -125,20 +137,21 @@
     },
     {
       "keywords": [
-        "Various DevOps tools and orchestration systems such as Kubernetes, Docker, Jenkins, Chef, Puppet and others.",
-        "Worked on multiple cloud computing platforms including AWS, Azure and Google Cloud."
+        "Various DevOps tools and orchestration systems such as Kubernetes, Docker, Chef, Puppet, Terraform, Ansible.",
+        "Worked on multiple cloud computing platforms including AWS, Azure and Google Cloud.",
+        "Experienced with many CI tools such as CircleCI, GitLab, Jenkins, Azure Pipelines."
       ],
       "name": "DevOps"
     },
     {
       "keywords": [
-        "Various frontend frameworks / libraries such as React, Angular, Vue and others."
+        "Various frontend frameworks / libraries such as React, Vue."
       ],
       "name": "Frontend"
     },
     {
       "keywords": [
-        "Various backend frameworks based on NodeJS, Python and, as of late Rust."
+        "Various backend frameworks based on NodeJS, Python and Rust."
       ],
       "name": "Backend"
     },
@@ -147,6 +160,12 @@
         "Various ML libraries such as TensorFlow, Keras and Brain.js."
       ],
       "name": "Machine Learning"
+    },
+    {
+      "keywords": [
+        "Strong algorithmical and data structures knowledge."
+      ],
+      "name": "Other"
     }
   ],
   "projects": [
