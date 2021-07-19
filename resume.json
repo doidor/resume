@@ -35,6 +35,18 @@
   ],
   "work": [
     {
+      "highlights": [
+        "Managing and growing squads in the Algorithms Tribe, Infrastructure Alliance.",
+        "Empower and unblock squads to deliver impact by establishing efficient execution and operational processes and holding my squads accountable while cultivating a healthy team environment.",
+        "Participate and lead architectural decisions."
+      ],
+      "company": "Getir",
+      "position": "Engineering Manager",
+      "location": "Cluj-Napoca, Romania",
+      "startDate": "April 2021",
+      "endDate": "Present"
+    },
+    {
       "company": "Black Tree Software",
       "position": "Chief Technology Officer & Co-Owner",
       "website": "https://blacktree.software/",
@@ -45,7 +57,7 @@
       ],
       "location": "Cluj-Napoca, Cluj, Romania",
       "startDate": "Sep 2016",
-      "endDate": "Present"
+      "endDate": "April 2021"
     },
     {
       "company": "Black Tree Software -- Sports betting / Online gambling PaaS",
@@ -200,8 +212,8 @@
     "profile",
     "education",
     "work",
-    "awards",
     "skills",
-    "projects"
+    "projects",
+    "awards"
   ]
 }
