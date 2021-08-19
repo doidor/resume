@@ -36,9 +36,14 @@
   "work": [
     {
       "highlights": [
-        "Managing and growing squads in the Algorithms Tribe, Infrastructure Alliance.",
-        "Empower and unblock squads to deliver impact by establishing efficient execution and operational processes and holding my squads accountable while cultivating a healthy team environment.",
-        "Participate and lead architectural decisions."
+        "Manage and grow squads in the Algorithms Tribe, Infrastructure Alliance.",
+        "Empower and unblock squads to deliver impact by establishing efficient execution and operational processes.",
+        "Participate in and lead software architecture decisions.",
+        null,
+        "Collaborate with other squads / tribes in cross functional features delivery.",
+        "Plan and implement monitoring systems to prevent service degradations and maintain a high throughput.",
+        "Hold my squads accountable while cultivating a healthy team environment.",
+        "The teams that I currently manage are responsible for core business features, such as order assignment and courier management."
       ],
       "company": "Getir",
       "position": "Engineering Manager",
@@ -66,7 +71,7 @@
       "highlights": [
         "Drove the development of a sports betting / online gambling white label PaaS.",
         "Had operations in 3 north african countries (Ghana, Uganda and Kenya).",
-        "Managed a team of 11 developers, following an agile approach.",
+        "Managed a team of 15 developers, following an agile approach.",
         "Designed and implemented the software architecture of the whole platform, creating a decoupled, highly scalable, components based system.",
         "Worked alongside a DevOps team on designing and implementing a complete continuous integration / continuous delivery solution using the AWS cloud.",
         "Implemented machine learning data models for predicting and categorizing user activities / behaviors.",
@@ -104,7 +109,7 @@
     },
     {
       "highlights": [
-        "Designed and implemented a CRM tool following Cluj's biggest real-estate angecy (at that time) requirements."
+        "Designed and implemented a CRM tool following Cluj's biggest real-estate agency (at that time) requirements."
       ],
       "company": "OpenData",
       "position": "Software Engineer",
@@ -130,7 +135,7 @@
         "Python",
         "Javascript",
         "Rust",
-        "Bash"
+        "Golang"
       ],
       "name": "Programming Languages"
     },
