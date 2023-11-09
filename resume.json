@@ -10,10 +10,10 @@
   "basics": {
     "name": "Tudor Popa",
     "email": "tdr.popa@gmail.com",
-    "phone": "+40744582116",
+    "phone": "+420774121235",
     "website": "tudorpopa.com",
     "location": {
-      "address": "Cluj-Napoca, Cluj, Romania"
+      "address": "Prague, Czech Republic"
     }
   },
   "education": [
@@ -36,6 +36,21 @@
   "work": [
     {
       "highlights": [
+        "Manager of one of the Customer Experience teams, inside the Office Product Group, working on the Fluent 2 design system and specifically Fluent UI React v9.",
+        "Responsible for the team's OKRs, hiring, performance reviews and career development.",
+        "Collaborate with other teams in our organization to deliver a consistent and high quality design system.",
+        "My team currently develops and owns several components in the library, handles all developer experience related improvements and issues and owns the Fluent 2 Design System website (https://fluent2.microsoft.design).",
+        "I am an individual contributor as well and I personally handled many CI / CD, documentation and website related tasks. Still on this topic, along with my team I made the decision of using Astro as our website framework, thus becoming the first team in Microsoft to use it (https://astro.build/case-studies/microsoft/).",
+        "While working in this org, I've also kept up to date with the latest AI / ML related technologies, as the company did a major push in this direction. As a result, I started an internal project (which is still under development) which uses LLMs to create a generative UI design tool, that uses our design system, with all its supported libraries. This will enable both external and internal users to have quick prototypes / initial setups for their apps using our technologies."
+      ],
+      "company": "Microsoft",
+      "position": "Principal Software Engineering Manager",
+      "location": "Prage, Czech Republic",
+      "startDate": "January 2022",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
         "Manage and grow squads in the Algorithms Tribe, Infrastructure Alliance.",
         "Empower and unblock squads to deliver impact by establishing efficient execution and operational processes.",
         "Participate in and lead software architecture decisions.",
@@ -49,7 +64,7 @@
       "position": "Engineering Manager",
       "location": "Cluj-Napoca, Romania",
       "startDate": "April 2021",
-      "endDate": "Present"
+      "endDate": "December 2021"
     },
     {
       "company": "Black Tree Software",
@@ -131,12 +146,7 @@
   "skills": [
     {
       "level": "",
-      "keywords": [
-        "Python",
-        "Javascript",
-        "Rust",
-        "Golang"
-      ],
+      "keywords": ["Python", "Javascript", "Rust", "Golang"],
       "name": "Programming Languages"
     },
     {
@@ -146,10 +156,7 @@
       "name": "Databases"
     },
     {
-      "keywords": [
-        "Nginx",
-        "Apache"
-      ],
+      "keywords": ["Nginx", "Apache"],
       "name": "Web Servers"
     },
     {
@@ -179,27 +186,19 @@
       "name": "Machine Learning"
     },
     {
-      "keywords": [
-        "Strong algorithmical and data structures knowledge."
-      ],
+      "keywords": ["Strong algorithmical and data structures knowledge."],
       "name": "Other"
     }
   ],
   "projects": [
     {
       "url": "https://github.com/doidor",
-      "keywords": [
-        "Javascript",
-        "Pyhton",
-        "Bash"
-      ],
+      "keywords": ["Javascript", "Pyhton", "Bash"],
       "name": "Github profile",
       "description": "Various open source projects that I personally use."
     },
     {
-      "keywords": [
-        "Javascript"
-      ],
+      "keywords": ["Javascript"],
       "name": "Random maze generator",
       "description": "A personal project that's designed to feed a multiplayer, mobile game with random generated maps, using a genetic algorithm and ranked by an A-star algorithm score in conjunction with a complexity index."
     }
