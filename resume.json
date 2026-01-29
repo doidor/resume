@@ -10,10 +10,10 @@
   "basics": {
     "name": "Tudor Popa",
     "email": "tdr.popa@gmail.com",
-    "phone": "+420774121235",
+    "phone": "+40744582116",
     "website": "tudorpopa.com",
     "location": {
-      "address": "Prague, Czech Republic"
+      "address": "Prague, Czechia"
     }
   },
   "education": [
@@ -26,7 +26,7 @@
       "institution": "Babeș-Bolyai University"
     },
     {
-      "institution": "Horea, Cloșca și Crișan Highshool",
+      "institution": "Horea, Cloșca și Crișan High School",
       "location": "Alba-Iulia, Alba, Romania",
       "area": "Informatics, Mathematics",
       "startDate": "Sep 2002",
@@ -36,29 +36,31 @@
   "work": [
     {
       "highlights": [
-        "Manager of one of the Customer Experience teams, inside the Office Product Group, working on the Fluent 2 design system and specifically Fluent UI React v9.",
-        "Responsible for the team's OKRs, hiring, performance reviews and career development.",
-        "Collaborate with other teams in our organization to deliver a consistent and high quality design system.",
-        "My team currently develops and owns several components in the library, handles all developer experience related improvements and issues and owns the Fluent 2 Design System website (https://fluent2.microsoft.design).",
-        "I am an individual contributor as well and I personally handled many CI / CD, documentation and website related tasks. Still on this topic, along with my team I made the decision of using Astro as our website framework, thus becoming the first team in Microsoft to use it (https://astro.build/case-studies/microsoft/).",
-        "While working in this org, I've also kept up to date with the latest AI / ML related technologies, as the company did a major push in this direction. As a result, I started an internal project (which is still under development) which uses LLMs to create a generative UI design tool, that uses our design system, with all its supported libraries. This will enable both external and internal users to have quick prototypes / initial setups for their apps using our technologies."
+        "Lead a Customer Experience team of 6 engineers in the Office Product Group, owning the Fluent UI React v9 component library and multiple GenUI solutions.",
+        "Defined and executed the strategic roadmap for evolving the Fluent UI React v9 component library, championing a model-first design system approach and aligning it across engineering and partner experiences.",
+        "Responsible for the team's OKRs, hiring, performance reviews and career development. Mentored and coached the team, supporting their growth, technical impact, and leadership within the Fluent UI ecosystem.",
+        "Led cross-functional collaboration with Engineering, Product, Marketing, and Developer Relations to drive adoption, clarity of direction, and developer experience for Fluent UI.",
+        "Multiple individual contributions, ranging from CI/CD improvements, documentation, and website tasks. Led the decision to adopt Astro as the website framework, becoming the first team at Microsoft to use it (https://astro.build/case-studies/microsoft/).",
+        "Conducted research and hands-on experimentation with state-of-the-art LLM tooling, evaluating model capabilities, integrating agentic patterns, and fine-tuning models to fit the specific needs of Fluent UI and developer workflows.",
+        "Built GenUI and agent-driven experiences that streamline how developers consume our library, integrating graph-augmented knowledge bases and AI-powered tooling across web, Teams, and MCP platforms."
       ],
       "company": "Microsoft",
       "position": "Principal Software Engineering Manager",
-      "location": "Prage, Czech Republic",
+      "location": "Prague, Czechia",
       "startDate": "January 2022",
       "endDate": "Present"
     },
     {
       "highlights": [
-        "Manage and grow squads in the Algorithms Tribe, Infrastructure Alliance.",
-        "Empower and unblock squads to deliver impact by establishing efficient execution and operational processes.",
-        "Participate in and lead software architecture decisions.",
-        null,
-        "Collaborate with other squads / tribes in cross functional features delivery.",
-        "Plan and implement monitoring systems to prevent service degradations and maintain a high throughput.",
-        "Hold my squads accountable while cultivating a healthy team environment.",
-        "The teams that I currently manage are responsible for core business features, such as order assignment and courier management."
+        "Defined strategic roadmap for a team of 12 engineers, leading cross-functional collaboration and mentoring junior engineers.",
+        "Managed and grew squads in the Algorithms Tribe, Infrastructure Alliance.",
+        "Led infrastructure algorithms squads, delivering major initiatives to make real-time data feel real-time.",
+        "Empowered and unblocked squads to deliver impact by establishing efficient execution and operational processes.",
+        "Participated in and led software architecture decisions.",
+        "Collaborated with other squads and tribes on cross-functional feature delivery.",
+        "Planned and implemented monitoring systems to prevent service degradations and maintain high throughput.",
+        "Guided team members in career growth, from onboarding to promotions, fostering long-term development.",
+        "Led teams responsible for core business features, including order assignment and courier management."
       ],
       "company": "Getir",
       "position": "Engineering Manager",
@@ -71,37 +73,24 @@
       "position": "Chief Technology Officer & Co-Owner",
       "website": "https://blacktree.software/",
       "highlights": [
-        "Managed / lead multiple teams of developers on various outsourcing projects.",
-        "Worked with technologies such as React, NodeJS, Pyhton and Rust.",
-        "Mostly focused on machine learning and software architecture."
-      ],
-      "location": "Cluj-Napoca, Cluj, Romania",
-      "startDate": "Sep 2016",
-      "endDate": "April 2021"
-    },
-    {
-      "company": "Black Tree Software -- Sports betting / Online gambling PaaS",
-      "position": "Chief Technology Officer & Co-Owner",
-      "website": "https://blacktree.software/",
-      "highlights": [
-        "Drove the development of a sports betting / online gambling white label PaaS.",
-        "Had operations in 3 north african countries (Ghana, Uganda and Kenya).",
-        "Managed a team of 15 developers, following an agile approach.",
-        "Designed and implemented the software architecture of the whole platform, creating a decoupled, highly scalable, components based system.",
+        "Defined strategic roadmap for a team of 15 engineers, led cross-functional collaboration, and provided mentorship to junior engineers.",
+        "Managed and led multiple engineering teams on various outsourcing projects.",
+        "Drove the development of a sports betting and online gambling white-label PaaS with operations in three African countries (Ghana, Uganda, and Kenya).",
+        "Designed and implemented the software architecture of the whole platform, creating a decoupled, highly scalable, micro-services based system.",
         "Worked alongside a DevOps team on designing and implementing a complete continuous integration / continuous delivery solution using the AWS cloud.",
         "Implemented machine learning data models for predicting and categorizing user activities / behaviors.",
         "Developed a lottery extraction tool which allowed the client to set a custom RTP (return to player) percentage using genetic algorithms.",
-        "Worked with technologies raging from low level code designed for currency detectors (ccTalk protocol) to full stack solutions (NodeJS, Python and React)."
+        "Worked with technologies ranging from low level code designed for currency detectors (ccTalk protocol) to full stack solutions (NodeJS, Python and React)."
       ],
       "location": "Cluj-Napoca, Cluj, Romania",
-      "startDate": "Sep 2016",
-      "endDate": "Aug 2019"
+      "startDate": "Sep 2012",
+      "endDate": "April 2021"
     },
     {
       "highlights": [
         "Managed a team of 6 developers on various outsourcing projects.",
-        "Collaborated with the Penvision swedish company, developing a SaaS platform which offered the possibility of online storage and processing of handwritten documents, using a proprietary handwriting recognition solution.",
-        "Re-worked swedish company's Rahmqvist CRM tool",
+        "Collaborated with Swedish company Penvision, developing a SaaS platform for online storage and processing of handwritten documents using proprietary handwriting recognition.",
+        "Re-architected Rahmqvist's CRM tool for the Swedish market.",
         "Developed and published the Rahmqvist PIMNotes app for both Android and iOS"
       ],
       "company": "HiPPONET",
@@ -113,18 +102,18 @@
     {
       "highlights": [
         "Managed the Cluj-Napoca office operations.",
-        "Managed a team of 5 developers, working on a file hosting service similar to Dropbox, which was the main competitor at that time.",
-        "Wrote a complete UI library with comparable window manager-like features in vanilla JS"
+        "Managed a team of 5 engineers building a file hosting service competing directly with Dropbox.",
+        "Architected and implemented a full UI library with comparable window manager-like features in vanilla JS"
       ],
-      "company": "wixi.com",
-      "position": "Local Manager / Lead Software Engineer",
+      "company": "Wixi.com",
+      "position": "Lead Engineer / Local Manager",
       "location": "Cluj-Napoca, Cluj, Romania",
       "startDate": "Sep 2008",
       "endDate": "Sep 2012"
     },
     {
       "highlights": [
-        "Designed and implemented a CRM tool following Cluj's biggest real-estate agency (at that time) requirements."
+        "Designed and implemented a CRM tool for Cluj's largest real estate agency."
       ],
       "company": "OpenData",
       "position": "Software Engineer",
@@ -134,7 +123,7 @@
     },
     {
       "highlights": [
-        "Worked on the Audi car manufacturer french site, developing various components for the client site and the backoffice."
+        "Worked on the Audi France website, developing components for both the client-facing site and back-office."
       ],
       "company": "WebHorizon",
       "position": "Junior Software Engineer",
@@ -146,7 +135,7 @@
   "skills": [
     {
       "level": "",
-      "keywords": ["Python", "Javascript", "Rust", "Golang"],
+      "keywords": ["Python", "Javascript", "TypeScript", "Rust", "Golang"],
       "name": "Programming Languages"
     },
     {
@@ -181,19 +170,21 @@
     },
     {
       "keywords": [
-        "Various ML libraries such as TensorFlow, Keras and Brain.js."
+        "Various ML libraries such as TensorFlow, Keras and Brain.js.",
+        "LLM tooling, agentic patterns, RAG, and model fine-tuning.",
+        "GenUI and AI-powered developer experiences."
       ],
-      "name": "Machine Learning"
+      "name": "Machine Learning / AI"
     },
     {
-      "keywords": ["Strong algorithmical and data structures knowledge."],
+      "keywords": ["Strong algorithmic and data structures knowledge."],
       "name": "Other"
     }
   ],
   "projects": [
     {
       "url": "https://github.com/doidor",
-      "keywords": ["Javascript", "Pyhton", "Bash"],
+      "keywords": ["Javascript", "Python", "Bash"],
       "name": "Github profile",
       "description": "Various open source projects that I personally use."
     },
