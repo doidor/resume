@@ -36,13 +36,15 @@
   "work": [
     {
       "highlights": [
-        "Lead a Customer Experience team of 6 engineers in the Office Product Group, owning the Fluent UI React v9 component library and multiple GenUI solutions.",
-        "Defined and executed the strategic roadmap for evolving the Fluent UI React v9 component library, championing a model-first design system approach and aligning it across engineering and partner experiences.",
-        "Responsible for the team's OKRs, hiring, performance reviews and career development. Mentored and coached the team, supporting their growth, technical impact, and leadership within the Fluent UI ecosystem.",
-        "Led cross-functional collaboration with Engineering, Product, Marketing, and Developer Relations to drive adoption, clarity of direction, and developer experience for Fluent UI.",
-        "Multiple individual contributions, ranging from CI/CD improvements, documentation, and website tasks. Led the decision to adopt Astro as the website framework, becoming the first team at Microsoft to use it (https://astro.build/case-studies/microsoft/).",
-        "Conducted research and hands-on experimentation with state-of-the-art LLM tooling, evaluating model capabilities, integrating agentic patterns, and fine-tuning models to fit the specific needs of Fluent UI and developer workflows.",
-        "Built GenUI and agent-driven experiences that streamline how developers consume our library, integrating graph-augmented knowledge bases and AI-powered tooling across web, Teams, and MCP platforms."
+        "Lead a team of 6 engineers in the Office Product Group, responsible for Fluent UI React v9 and AI-powered developer tooling; own technical strategy, delivery, hiring, and engineer development.",
+        "Led and contributed hands-on to a GraphRAG-based developer assistant, connecting curated design-system knowledge to chat and API experiences.",
+        "Led delivery of Model Context Protocol (MCP) tooling that grounds coding agents in component APIs, design tokens, icons, and documentation, with deterministic validation tools.",
+        "Authored reusable coding-agent instructions and skills for Fluent UI development and review; added human-in-the-loop issue triage and ownership-aware reviewer assignment.",
+        "Established CI-backed evaluations with Promptfoo, relevance assertions, and LLM-as-judge scoring to assess knowledge-base answer quality and guide retrieval and prompt improvements.",
+        "Designed and contributed to GenUI benchmarks comparing coding agents and models on API correctness, accessibility, browser behavior, and design-system compliance, combining deterministic checks with LLM-based judging.",
+        "Authored research on model-first UI generation and used benchmark findings to shape headless design-system strategy, separating accessible component behavior from styling.",
+        "Led Fluent UI React v9 platform modernization and adoption, including React 18/19 support, server rendering, migration guidance, documentation, and recurring engineering office hours.",
+        "Led adoption of Astro for the Fluent 2 website; the team delivered 200+ pages in 10 months and halved new-page development time (https://astro.build/case-studies/microsoft/)."
       ],
       "company": "Microsoft",
       "position": "Principal Software Engineering Manager",
@@ -134,54 +136,95 @@
   ],
   "skills": [
     {
-      "level": "",
-      "keywords": ["Python", "Javascript", "TypeScript", "Rust", "Golang"],
-      "name": "Programming Languages"
-    },
-    {
+      "name": "Applied AI & Agents",
       "keywords": [
-        "Various db engines including both SQL and NoSQL solutions such as MongoDB, Redis, Couchbase, PostgreSQL."
-      ],
-      "name": "Databases"
+        "LLM applications",
+        "Coding agents and skills",
+        "Multi-agent workflows",
+        "Prompt and context engineering",
+        "Model Context Protocol (MCP)"
+      ]
     },
     {
-      "keywords": ["Nginx", "Apache"],
-      "name": "Web Servers"
-    },
-    {
+      "name": "Retrieval & Knowledge Systems",
       "keywords": [
-        "Various DevOps tools and orchestration systems such as Kubernetes, Docker, Chef, Puppet, Terraform, Ansible.",
-        "Worked on multiple cloud computing platforms including AWS, Azure and Google Cloud.",
-        "Experienced with many CI tools such as CircleCI, GitLab, Jenkins, Azure Pipelines."
-      ],
-      "name": "DevOps"
+        "Retrieval-augmented generation (RAG)",
+        "GraphRAG",
+        "Knowledge graphs",
+        "Knowledge-base ingestion and indexing"
+      ]
     },
     {
+      "name": "LLM & Agent Evaluation",
       "keywords": [
-        "Various frontend frameworks / libraries such as React, Vue."
-      ],
-      "name": "Frontend"
+        "Promptfoo",
+        "LLM-as-judge",
+        "Retrieval relevance",
+        "Model comparison",
+        "Agent benchmarking",
+        "CI-backed evaluations"
+      ]
     },
     {
+      "name": "Generative UI",
       "keywords": [
-        "Various backend frameworks based on NodeJS, Python and Rust."
-      ],
-      "name": "Backend"
+        "GenUI",
+        "Model-first design systems",
+        "Headless components",
+        "Accessibility",
+        "Design-system compliance"
+      ]
     },
     {
+      "name": "Programming Languages",
+      "keywords": ["TypeScript", "Python", "JavaScript", "Rust", "Go"]
+    },
+    {
+      "name": "Full-Stack Development",
+      "keywords": ["React", "Fluent UI", "Node.js", "Astro", "Vue"]
+    },
+    {
+      "name": "Cloud & Delivery",
       "keywords": [
-        "Various ML libraries such as TensorFlow, Keras and Brain.js.",
-        "LLM tooling, agentic patterns, RAG, and model fine-tuning.",
-        "GenUI and AI-powered developer experiences."
-      ],
-      "name": "Machine Learning / AI"
+        "Azure OpenAI",
+        "Azure",
+        "AWS",
+        "Google Cloud",
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "GitHub Actions",
+        "Azure Pipelines"
+      ]
     },
     {
-      "keywords": ["Strong algorithmic and data structures knowledge."],
-      "name": "Other"
+      "name": "Databases",
+      "keywords": ["PostgreSQL", "MongoDB", "Redis", "Couchbase"]
+    },
+    {
+      "name": "Machine Learning Foundations",
+      "keywords": [
+        "TensorFlow",
+        "Keras",
+        "Brain.js",
+        "Predictive modeling",
+        "Genetic algorithms"
+      ]
     }
   ],
   "projects": [
+    {
+      "name": "AgentRig",
+      "url": "https://github.com/doidor/agentrig",
+      "keywords": ["TypeScript", "MCP", "LLM evaluation"],
+      "description": "Built a CLI for sharing agent instructions and MCP configurations across coding tools, with fixture-based behavioral evaluations, separate producer/judge conversations, and baseline comparisons."
+    },
+    {
+      "name": "Markbook",
+      "url": "https://github.com/doidor/markbook",
+      "keywords": ["TypeScript", "React", "Vite", "Agent skills"],
+      "description": "Built a Markdown-first documentation and React component showcase tool with Vite, reusable coding-agent skills, and synchronized HTML and llms.txt outputs from a single source."
+    },
     {
       "url": "https://github.com/doidor",
       "keywords": ["Javascript", "Python", "Bash"],
@@ -205,9 +248,9 @@
   "sections": [
     "templates",
     "profile",
-    "education",
-    "work",
     "skills",
+    "work",
+    "education",
     "projects",
     "awards"
   ]
