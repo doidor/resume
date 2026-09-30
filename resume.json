@@ -37,21 +37,27 @@
   "work": [
     {
       "highlights": [
-        "Lead a team of 6 engineers in the Office Product Group, responsible for Fluent UI React v9 and AI-powered developer tooling; own technical strategy, delivery, hiring, and engineer development.",
-        "Led and contributed hands-on to a GraphRAG-based developer assistant, connecting curated design-system knowledge to chat and API experiences.",
-        "Led delivery of Model Context Protocol (MCP) tooling that grounds coding agents in component APIs, design tokens, icons, and documentation, with deterministic validation tools.",
+        "Promoted from L65 to L66 in December 2023 for driving Fluent UI React v9 adoption and launching the Fluent 2 website; now lead a team of 7 engineers in the Office Product Group owning Fluent UI React v9 and AI-powered developer tooling, including technical strategy, delivery, hiring, and engineer development.",
+        "Lead Fluent Agent RAG platform over curated Fluent UI knowledge bases — scraping docs, Storybook, repos, and llms.txt into FAISS indexes served via OpenAI-compatible chat API and MCP server; deterministic MCP tools validate components, icons, tokens, and props to ground coding agents.",
         "Authored reusable coding-agent instructions and skills for Fluent UI development and review; added human-in-the-loop issue triage and ownership-aware reviewer assignment.",
-        "Established CI-backed evaluations with Promptfoo, relevance assertions, and LLM-as-judge scoring to assess knowledge-base answer quality and guide retrieval and prompt improvements.",
-        "Designed and contributed to GenUI benchmarks comparing coding agents and models on API correctness, accessibility, browser behavior, and design-system compliance, combining deterministic checks with LLM-based judging.",
-        "Authored research on model-first UI generation and used benchmark findings to shape headless design-system strategy, separating accessible component behavior from styling.",
+        "Established CI-backed evaluations with Promptfoo, relevance assertions, and LLM-as-judge scoring, plus GenUI benchmarks for API correctness, accessibility, browser behavior, and design-system compliance; used findings to shape headless design-system strategy separating accessible behavior from styling."
+      ],
+      "company": "Microsoft",
+      "position": "Principal Software Engineering Manager (L66)",
+      "location": "Prague, Czechia",
+      "startDate": "December 2023",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
         "Led Fluent UI React v9 platform modernization and adoption, including React 18/19 support, server rendering, migration guidance, documentation, and recurring engineering office hours.",
         "Led adoption of Astro for the Fluent 2 website; the team delivered 200+ pages in 10 months and halved new-page development time (https://astro.build/case-studies/microsoft/)."
       ],
       "company": "Microsoft",
-      "position": "Principal Software Engineering Manager",
+      "position": "Principal Software Engineering Manager (L65)",
       "location": "Prague, Czechia",
       "startDate": "January 2022",
-      "endDate": "Present"
+      "endDate": "December 2023"
     },
     {
       "highlights": [
@@ -181,13 +187,8 @@
       "keywords": ["TypeScript", "Python", "JavaScript", "Rust", "Go"]
     },
     {
-      "name": "Full-Stack Development",
-      "keywords": ["React", "Fluent UI", "Node.js", "Astro", "Vue"]
-    },
-    {
       "name": "Cloud & Delivery",
       "keywords": [
-        "Azure OpenAI",
         "Azure",
         "AWS",
         "Google Cloud",
