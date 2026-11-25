@@ -9,7 +9,7 @@
   },
   "basics": {
     "name": "Tudor Popa",
-    "summary": "Hands-on engineering leader with two decades of experience combining software architecture, people management, and platform delivery. Principal Software Engineering Manager at Microsoft, leading Fluent UI React v9 and AI-powered developer tooling. Focused on making AI useful and dependable for developers through retrieval-augmented assistants, MCP tooling, coding-agent workflows, and rigorous evaluation, backed by experience in frontend platforms, distributed systems, and cloud infrastructure.",
+    "summary": "Hands-on engineering leader with two decades of experience combining software architecture, people management, and platform delivery. Principal Software Engineering Manager at Microsoft, leading Fluent UI React v9 and AI-powered developer tooling. Focused on making AI useful and dependable for developers through retrieval-augmented assistants, MCP tooling, autonomous coding-agent orchestration, and rigorous evaluation, backed by experience in frontend platforms, distributed systems, and cloud infrastructure.",
     "email": "tdr.popa@gmail.com",
     "phone": "+40744582116",
     "website": "tudorpopa.com",
@@ -38,7 +38,7 @@
     {
       "highlights": [
         "Promoted from L65 to L66 in December 2023 for driving Fluent UI React v9 adoption and launching the Fluent 2 website; now lead a team of 7 engineers in the Office Product Group owning Fluent UI React v9 and AI-powered developer tooling, including technical strategy, delivery, hiring, and engineer development.",
-        "Lead Fluent Agent RAG platform over curated Fluent UI knowledge bases — scraping docs, Storybook, repos, and llms.txt into FAISS indexes served via OpenAI-compatible chat API and MCP server; deterministic MCP tools validate components, icons, tokens, and props to ground coding agents.",
+        "Lead Fluent Agent RAG platform over curated Fluent UI knowledge bases: scraping docs, Storybook, repos, and llms.txt into FAISS indexes served via OpenAI-compatible chat API and MCP server; deterministic MCP tools validate components, icons, tokens, and props to ground coding agents.",
         "Authored reusable coding-agent instructions and skills for Fluent UI development and review; added human-in-the-loop issue triage and ownership-aware reviewer assignment.",
         "Established CI-backed evaluations with Promptfoo, relevance assertions, and LLM-as-judge scoring, plus GenUI benchmarks for API correctness, accessibility, browser behavior, and design-system compliance; used findings to shape headless design-system strategy separating accessible behavior from styling."
       ],
@@ -146,6 +146,7 @@
       "name": "Applied AI & Agents",
       "keywords": [
         "LLM applications",
+        "Agentic orchestration",
         "Coding agents and skills",
         "Multi-agent workflows",
         "Prompt and context engineering",
@@ -187,34 +188,17 @@
       "keywords": ["TypeScript", "Python", "JavaScript", "Rust", "Go"]
     },
     {
-      "name": "Cloud & Delivery",
       "keywords": [
-        "Azure",
-        "AWS",
-        "Google Cloud",
-        "Docker",
-        "Kubernetes",
-        "Terraform",
-        "GitHub Actions",
-        "Azure Pipelines"
-      ]
-    },
-    {
-      "name": "Databases",
-      "keywords": ["PostgreSQL", "MongoDB", "Redis", "Couchbase"]
-    },
-    {
-      "name": "Machine Learning Foundations",
-      "keywords": [
-        "TensorFlow",
-        "Keras",
-        "Brain.js",
-        "Predictive modeling",
-        "Genetic algorithms"
+        "Experienced with all major cloud providers and database solutions"
       ]
     }
   ],
   "projects": [
+    {
+      "name": "Teg (internal)",
+      "keywords": ["Rust", "Agentic orchestration", "Agent Client Protocol", "LLM-as-judge"],
+      "description": "Built an internal, autonomous issue-to-PR orchestration engine in Rust: scoped GitHub issues and Azure DevOps work items become coding-agent jobs in isolated worktrees, followed through CI, reviews, conflicts, and guarded merge. Reliable by construction: a pure typed lifecycle state machine, idempotent forge-as-source-of-truth effects, and bounded retries that always end in explicit human-attention states. Already running 24/7 across several internal repositories, including scheduled unattended code audits where only verified findings become PRs."
+    },
     {
       "name": "AgentRig",
       "url": "https://github.com/doidor/agentrig",
